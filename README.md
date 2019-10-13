@@ -1,1 +1,2 @@
 # groupA
+Electronik: Semih Fidancı
